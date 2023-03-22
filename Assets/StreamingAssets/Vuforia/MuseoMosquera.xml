@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Disparador7" size="1.000000 1.000000" />
+    <ImageTarget name="Disparador6" size="1.000000 1.000000" />
+    <ImageTarget name="Disparador5" size="1.000000 1.000000" />
+    <ImageTarget name="Disparador4" size="1.000000 0.757819" />
+    <ImageTarget name="Disparador3" size="1.000000 1.000000" />
+    <ImageTarget name="Disparador2" size="1.000000 1.612130" />
+    <ImageTarget name="Disparador1" size="1.000000 1.000000" />
+    <ImageTarget name="Disparador0" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
