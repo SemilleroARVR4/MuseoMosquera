@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BotonesMenuGeneral : MonoBehaviour
 {
-    public string URL = "https://youtube.com/playlist?list=PLXFKdhYDX06_LElipAGvdboDPNk3q4-Ij";
+    public string URL = "https://m.youtube.com/playlist?list=PLUDkaAlXIyBCGKqWe9cQxPeSXXw55fGLO";
     public GameObject C_MenuGeneral;
     public GameObject C_RecorridoAR;
     public GameObject C_Trivia;
